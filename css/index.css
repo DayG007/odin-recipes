@@ -1,0 +1,45 @@
+body {
+    background: radial-gradient(red, yellow, green);
+
+}
+
+.chef {
+    border-radius: 30px;
+    border-style: ridge;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+    width: 70vh;
+}
+
+ #header1{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+} 
+
+.recipe {
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bold;  
+    list-style-type: square; 
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+div {
+    border: solid;
+    align-items: center;
+    margin: auto;
+    width: 70vh;
+    background-color: white;
+    border-radius: 35px;
+    border-style: groove;
+    height: auto;
+}
