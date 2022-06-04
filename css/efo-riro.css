@@ -45,3 +45,6 @@ p {
     font-size: 18px;
     font-style: oblique;
 }
+a {
+    text-decoration: none;
+}
